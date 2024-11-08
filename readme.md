@@ -76,7 +76,7 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
--   **[isubrip](https://github.com/kaervin/isubrip)** for subtitle downloading capabilities.
+-   **[iSubRip](https://github.com/MichaelYochpaz/iSubRip)** for subtitle downloading capabilities.
 -   **[ffsubsync](https://github.com/smacke/ffsubsync)** for subtitle synchronization.
 -   **[The Movie Database (TMDb)](https://www.themoviedb.org/)** for movie data.
 -   **[pycountry](https://pypi.org/project/pycountry/)** for language code mappings.

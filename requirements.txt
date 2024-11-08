@@ -1,0 +1,4 @@
+isubrip
+ffsubsync
+requests
+pycountry
